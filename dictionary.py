@@ -63,7 +63,7 @@ print(সকল_লোকজন[1]['ঠিকানা'])
 # some example of tuple . Its use only for fixed element
 
 আমার_৫_প্রিয়_কালার = ('সবুজ','নীল','কমলা','সাদা','বেগুনী')
-
+# # please test print function one by one
 print(আমার_৫_প্রিয়_কালার)
 print(আমার_৫_প্রিয়_কালার[2])
 
