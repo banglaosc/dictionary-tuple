@@ -57,3 +57,15 @@ print(সকল_লোকজন[1]['ঠিকানা'])
 # single_dict = rank_list[0]
 
 # print(single_dict['1'])
+
+
+
+# some example of tuple . Its use only for fixed element
+
+আমার_৫_প্রিয়_কালার = ('সবুজ','নীল','কমলা','সাদা','বেগুনী')
+
+print(আমার_৫_প্রিয়_কালার)
+print(আমার_৫_প্রিয়_কালার[2])
+
+আমার_৫_প্রিয়_কালার[1] = "হলুদ"  
+print(আমার_৫_প্রিয়_কালার) ## get error when want to update or remove its a fixed value
